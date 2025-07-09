@@ -579,7 +579,7 @@ def main():
                     rule_type=RuleType.EXCLUDE,
                     operator=RuleOperator.OR,
                     enabled=True,
-                    parameters={'numeroOab': '14072', 'ufOab': 'ES', 'dataDisponibilizacaoInicio': '2025-07-08'}
+                    parameters={'numeroOab': '14072', 'ufOab': 'ES','nomeParte': 'Sinales', 'dataDisponibilizacaoInicio': '2025-07-08'}
                 )
             ]
             
